@@ -1,3 +1,6 @@
+# The build of this project can be viewed at the link:
+https://olegfilinskiy.github.io/build-vue-math-test/
+
 # vue-math-test
 Vue project of mathematic test created with webpack-simple
 
